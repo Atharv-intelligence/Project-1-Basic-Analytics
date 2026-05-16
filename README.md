@@ -1,14 +1,14 @@
 :
 
- Basic Analytics Dashboard
+ 📊 Basic Analytics Dashboard
 Overview
 
 This project focuses on learning the fundamentals of data analysis and dashboard creation using Python.
 
 Features
 Data cleaning
-KPI generation
-Basic visualizations
+Basic KPI generation
+Simple visualizations
 Tools Used
 Python
 pandas
