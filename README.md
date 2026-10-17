@@ -1,23 +1,27 @@
 # Basic Analytics Dashboard
 
-##  Overview
-This project focuses on learning the fundamentals of data analysis and dashboard creation using Python.
+An introductory Python analytics project built around gym data.
 
----
+## Repository contents
 
-## Features
-- Data cleaning  
-- Basic KPI generation  
-- Simple visualizations  
+- `data/gym_data.xlsx`: source workbook
+- `screenshots/dashboard project 1 .png`: dashboard screenshot
+- `project1.ipynb`: notebook placeholder
 
----
+## Dashboard preview
 
-##  Tools Used
-- Python  
-- pandas  
-- matplotlib  
+![Dashboard preview](screenshots/dashboard%20project%201%20.png)
 
----
+## Technologies
 
-## Outcome
-Built a beginner-level analytics dashboard to understand foundational analytics workflows.
+Python, pandas, and Matplotlib.
+
+## Current status
+
+This repository currently serves as a portfolio snapshot of the dashboard and source data. The committed notebook is empty, so the analysis steps are not yet reproducible from code.
+
+## Next improvements
+
+- Add the notebook or Python script that generates the dashboard
+- Document the KPIs, data cleaning decisions, and chart definitions
+- Add installation and run instructions
